@@ -9,6 +9,6 @@
 
 ---
 
-| [Miracle Rindani](https://github.com/mrindani)       | [Dipika Pawar](https://github.com/DipikaPawar12)                                                                                                            | [Aanshi Patwari](https://github.com/aanshi18)                                                                                                            | [Frency Chauhan]                                           (https://github.com/Frency-Chauhan) |
+| [Miracle Rindani](https://github.com/mrindani)       | [Dipika Pawar](https://github.com/DipikaPawar12)                                                                                                            | [Aanshi Patwari](https://github.com/aanshi18)                                                                                                            | [Frency Chauhan](https://github.com/Frency-Chauhan) |
 
 
